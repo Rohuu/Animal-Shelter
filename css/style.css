@@ -6,6 +6,10 @@
     width: 80px;
 }
 
+.container1 .container-photo img {
+    width: 100%;
+}
+
 .navbar navbar-nav {
     justify-content: space-evenly !important;
     color: red !important;
