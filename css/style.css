@@ -6,6 +6,11 @@
     width: 80px;
 }
 
+.navbar navbar-nav {
+    justify-content: space-evenly !important;
+    color: red !important;
+}
+
 
 .navbar nav-socials {
     float: right;
